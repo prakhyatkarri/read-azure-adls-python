@@ -1,1 +1,1 @@
-# read-azure-adls-python
+### Open this [notebook](https://github.com/prakhyatkarri/read-azure-adls-python/read-files-from-adls-python.ipynb) for steps to read data from Azure ML Open Datasets using Python.
